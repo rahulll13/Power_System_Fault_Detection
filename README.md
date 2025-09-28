@@ -8,5 +8,7 @@ This Project was developed as a part of the IBM (AICTE) Internship on AI and Clo
 💠IBM Watsonx.ai - TO build and run the machine learning model using the natural language.                                                                                      
 
 💠Watsonx.ai Runtime - For executing and managing the deployed agent.
+
 💠AutoAI - no code interface for designing, testing, and deploying the machine learning model.
+
 💠IBM Cloud Lite Plan - Used for cloud-based development and deployment
