@@ -5,7 +5,8 @@ Power System Fault Detection System is a Machine Learning project that provides 
 This Project was developed as a part of the IBM (AICTE) Internship on AI and Cloud by Edunet Foundation. Using IBM's AI tools and effective machine learning models, The Power system Fault detection system simulates a real-time and effective prediction of the fault based on the previous records of data provided.
 
 # 🛠️ Technologies Used
-💠IBM Watsonx.ai - TO build and run the machine learning model using the natural language.
+💠IBM Watsonx.ai - TO build and run the machine learning model using the natural language.                                                                                      
+
 💠Watsonx.ai Runtime - For executing and managing the deployed agent.
 💠AutoAI - no code interface for designing, testing, and deploying the machine learning model.
 💠IBM Cloud Lite Plan - Used for cloud-based development and deployment
