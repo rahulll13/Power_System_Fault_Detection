@@ -27,6 +27,12 @@ This Project was developed as a part of the IBM (AICTE) Internship on AI and Clo
 
 💠 🔋 Boosting operational efficiency by preventing cascading failures and optimizing power quality.
 
+# 🪪 License
+This Project is created for academic and internship learning purposes under the IBM (AICTE) Internship on AI and Cloud program by EDUNET FOUNDATION.
+
+Developed by RAHUL KUMAR SINHA
+IBM (AICTE) INTERNSHIP ON AI AND CLOUD (AUGUST 2025)
+
 
 
 
